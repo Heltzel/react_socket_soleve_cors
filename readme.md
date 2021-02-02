@@ -1,0 +1,1 @@
+# Solving the CORS problem for Socket.io and React
